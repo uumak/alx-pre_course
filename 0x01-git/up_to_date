@@ -1,1 +1,1 @@
-git add . git commit -m "Hw to be up to date in git" git push git pull
+git pull
